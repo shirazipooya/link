@@ -19,3 +19,5 @@ vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@185.140.12.165:443?encryption=none&
 vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@95.174.68.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=chrome&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#FreeNode%202
 
 vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@180.149.45.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=chrome&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#FreeNode%203
+
+vless://2E02E594-6A46-4DD8-AFFC-9CA3587E1788@185.33.24.53:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kino.pub&fp=chrome&security=reality&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26#FreeNode%203
