@@ -12,12 +12,12 @@ sn://vmess?eNoVzkEKgkAUgOHXTbqAA87om5mlZSCEoRlGq1BnBgLBMDVo52HatWjTqit0lSho0zI7w
 
 sn://vmess?eNoNzj0KwjAYgOF4oIR8NY1xrLhUKBRUcJP8WZWUSls1uOUgjm4eoKuHcVQED6B94dlfhBACKgjwmADlpJtfEboNpVAsVoCVBIsZZUOsqBFYjOKYyYiLyIBvXYPrQ-3xadfsqvevr9Wf1n2bg7WGaFcdzcbJ2hJdvUJAeltX5fM-zafZPp8VkMuFHAma4XPOhVsnk-aYpjrzbOUv5XhviwQ0l5ZbQ0FwG5muf0WD3nL-COEPXko-vg
 
-vless://597CE1A1-D9B8-4863-9099-D0D7D0E931FE@95.174.68.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=safari&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
+sn://vmess?eNoNzj0OgjAAQOF6Ey_QhhYK7YgaMUbj4F90MaVWJVIxLQgrh3Fz0cEbuRoTD6C85NsfAABg7iLs-IhQB7H74gHAVRJB2Bb7UG2ZgB6XHLIgVlBg5VCPBFT6rMpTC83ZVPCS2CR7_5py-cnTrxWp0EiYrLAHgUoV2yR_1TWQB5Pp1y06zfp4OC7SSBtxXCcz4u7hpleywaTLdKcalT7Vq2WxDiWPOdthTqir3MDjz-YWtBrzadh-1PUfr4U_7w
 
-vless://597CE1A1-D9B8-4863-9099-D0D7D0E931FE@185.140.12.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=random&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
+vless://0DA7B69C-B6C3-4D10-AD3B-0ED6661346D5@185.33.24.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=firefox&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
 
-vless://597CE1A1-D9B8-4863-9099-D0D7D0E931FE@95.174.68.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=safari&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
+vless://0DA7B69C-B6C3-4D10-AD3B-0ED6661346D5@185.140.12.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=firefox&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
 
-vless://597CE1A1-D9B8-4863-9099-D0D7D0E931FE@185.33.24.53:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=firefox&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
+vless://0DA7B69C-B6C3-4D10-AD3B-0ED6661346D5@95.174.68.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=chrome&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
 
-vless://597CE1A1-D9B8-4863-9099-D0D7D0E931FE@185.140.12.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=chrome&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
+vless://0DA7B69C-B6C3-4D10-AD3B-0ED6661346D5@180.149.45.73:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=kino.pub&fp=edge&pbk=L1SHcUQZTY9utUZqeeO5nPBzb6xoDGSIGbabLs7eIVU&sid=f8c6e9b40a9c6f26&type=tcp&headerType=none#realityforus.com
