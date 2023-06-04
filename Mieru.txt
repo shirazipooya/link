@@ -1,0 +1,1 @@
+socks://Og==@127.0.0.1:3080#Mieru-INET-NewYork
