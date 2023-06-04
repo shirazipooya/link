@@ -1,11 +1,11 @@
-vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:34343?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#vless-tcp-xtls
-vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:34343?type=tcp&encryption=none&security=tls&path=%2f#vless-tcp-tls
-vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:34343?type=ws&encryption=none&security=tls&path=%2fNC4GN3#vless-ws-tls
+vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:8443?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#vless-tcp-xtls
+vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:8443?type=tcp&encryption=none&security=tls&path=%2f#vless-tcp-tls
+vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:8443?type=ws&encryption=none&security=tls&path=%2fNC4GN3#vless-ws-tls
 vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:2001?type=kcp&encryption=none&security=none&path=%2f&seed=619b1aec-e218-4eb4-a6b4-bb30e7861a17&headerType=wechat-video#vless-mKCP
 vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:2002?type=quic&encryption=none&security=tls&path=%2f&quicSecurity=chacha20-poly1305&key=p1o3o6y3a&headerType=wechat-video#vless-quic
 vless://ece2ad16-81de-416d-9e02-d62f65b0d1dc@maryam.arousha.website:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=4EXBRNC&mode=gun#vless-gRPC
-vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtdGxzIiwiYWRkIjoibWFyeWFtLmFyb3VzaGEud2Vic2l0ZSIsInBvcnQiOiIzNDM0MyIsImlkIjoiZWNlMmFkMTYtODFkZS00MTZkLTllMDItZDYyZjY1YjBkMWRjIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9VOTdMNjZUUSIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtdGxzIiwiYWRkIjoibWFyeWFtLmFyb3VzaGEud2Vic2l0ZSIsInBvcnQiOiI4NDQzIiwiaWQiOiJlY2UyYWQxNi04MWRlLTQxNmQtOWUwMi1kNjJmNjViMGQxZGMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL1U5N0w2NlRRIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtbUtDUCIsImFkZCI6Im1hcnlhbS5hcm91c2hhLndlYnNpdGUiLCJwb3J0IjoiMzAwMSIsImlkIjoiZWNlMmFkMTYtODFkZS00MTZkLTllMDItZDYyZjY1YjBkMWRjIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInR5cGUiOiJ3ZWNoYXQtdmlkZW8iLCJob3N0IjoiIiwicGF0aCI6IjYxOWIxYWVjLWUyMTgtNGViNC1hNmI0LWJiMzBlNzg2MWExNyIsInRscyI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtcXVpYyIsImFkZCI6Im1hcnlhbS5hcm91c2hhLndlYnNpdGUiLCJwb3J0IjoiMzAwMiIsImlkIjoiZWNlMmFkMTYtODFkZS00MTZkLTllMDItZDYyZjY1YjBkMWRjIiwiYWlkIjoiMCIsIm5ldCI6InF1aWMiLCJ0eXBlIjoid2VjaGF0LXZpZGVvIiwiaG9zdCI6ImNoYWNoYTIwLXBvbHkxMzA1IiwicGF0aCI6InAxbzNvNnkzYSIsInRscyI6InRscyJ9
-trojan://619b1aec-e218-4eb4-a6b4-bb30e7861a17@maryam.arousha.website:34343#trojan-tcp
+trojan://619b1aec-e218-4eb4-a6b4-bb30e7861a17@maryam.arousha.website:8443#trojan-tcp
 ss://YWVzLTEyOC1nY206NjE5YjFhZWMtZTIxOC00ZWI0LWE2YjQtYmIzMGU3ODYxYTE3QG1hcnlhbS5hcm91c2hhLndlYnNpdGU6NDAwMQ==#ShadowSocks
