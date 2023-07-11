@@ -1,1 +1,1 @@
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@162.159.62.69:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#PooyaWorker_RSP_IRCF
+vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@162.159.62.69:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_RSP_IRCF
