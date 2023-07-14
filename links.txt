@@ -9,3 +9,8 @@ https://raw.githubusercontent.com/shirazipooya/link/main/VlessWorkerMKH.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/VlessWorkerMTN.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/VlessWorkerRSP.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/VlessWorkerRTL.txt
+
+https://raw.githubusercontent.com/shirazipooya/link/main/FreeMKH.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/FreeMTN.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/FreeMCI.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/FreeRTL.txt
