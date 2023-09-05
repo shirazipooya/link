@@ -1,0 +1,6 @@
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@104.19.194.40:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@172.67.242.38:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@104.20.156.248:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@104.25.255.254:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@172.66.47.74:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
+vless://d6f78c4e-e60e-4fa2-b3fe-91dad8386bb3@203.29.53.252:443?encryption=none&security=tls&sni=free.shirazipooya.ir&alpn=http%2F1.1&fp=chrome&type=ws&host=free.shirazipooya.ir&path=%2F%3Fed%3D2048#Free_MKH_IRCF
