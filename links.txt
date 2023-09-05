@@ -1,6 +1,5 @@
 https://raw.githubusercontent.com/shirazipooya/link/main/INET-NewYork-ProxySU.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FUM-INET-NewYork-ProxySU.txt
-https://raw.githubusercontent.com/shirazipooya/link/main/INET-Frankfurt-ProxySU.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/Reality.txt
 
 https://raw.githubusercontent.com/shirazipooya/link/main/VlessWorker.txt
