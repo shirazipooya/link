@@ -5,3 +5,7 @@ vmess://eyJhZGQiOiI4Mi4xNjUuNTYuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiZmlyZWZv
 vless://6f1a5d63-153d-4911-8bce-2c966103754e@108.165.106.8:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.gg&fp=chrome&security=reality&pbk=heyLT1xD047WcsauMHwBFgNpW9utJQI1MB_cy3F7Yk4&sid=2e5030bb712baf12#Phoenix%20-%20Re
 
 vless://43cc27da-8118-48bf-8987-45e162841550@193.106.250.81:36963/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=discord.gg&fp=chrome&security=reality&pbk=7Ud08OTkRcrA_vL2z8IMhQuKo9mFGGF1t7Mse8-NDzg&sid=b9d21dc81684d2b6#INET-NEWYORK
+
+juicity://e0e2acf9-e6a4-422a-affe-b25255db8f1f:1333@193.106.250.81:2023/?congestion_control=bbr&sni=www.speedtest.net&allow_insecure=1#New%20York
+
+juicity://1a239322-011e-437e-bed1-57250ca3a25f:1333@108.165.106.8:2023/?congestion_control=bbr&sni=www.discord.gg&allow_insecure=1#Phoenix
