@@ -1,0 +1,1 @@
+juicity://5e953743-709b-4e67-829a-dc149591d386:1333@193.106.250.81:2053?congestion_control=bbr&pinned_certchain_sha256=kdJLwmfChtG2o487Pb3OACEKX6jRwCwymcyocK5J3xM%3D&sni=speedtest.net

@@ -1,0 +1,11 @@
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:4433?type=tcp&encryption=none&security=tls&path=%2f&flow=xtls-rprx-vision#vless-tcp-xtls
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:4433?type=tcp&encryption=none&security=tls&path=%2f#vless-tcp-tls
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:4433?type=ws&encryption=none&security=tls&path=%2fJMTJ2I#vless-ws-tls
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:2001?type=kcp&encryption=none&security=none&path=%2f&seed=2796cda2-eec4-4cc3-b525-3a4b5e984e3d&headerType=none#vless-mKCP
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:2002?type=quic&encryption=none&security=tls&path=%2f&quicSecurity=none&headerType=none#vless-quic
+vless://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:2003?type=grpc&encryption=none&security=tls&path=%2f&serviceName=UOVUJ22&mode=gun#vless-gRPC
+vmess://eyJ2IjoiMiIsInBzIjoidm1lc3Mtd3MtdGxzIiwiYWRkIjoiaW5mby5oeWRyb2NvZGUudGVjaCIsInBvcnQiOiI0NDMzIiwiaWQiOiIyNzk2Y2RhMi1lZWM0LTRjYzMtYjUyNS0zYTRiNWU5ODRlM2QiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL0hOQ1RCMDRXIiwidGxzIjoidGxzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtbUtDUCIsImFkZCI6ImluZm8uaHlkcm9jb2RlLnRlY2giLCJwb3J0IjoiMzAwMSIsImlkIjoiMjc5NmNkYTItZWVjNC00Y2MzLWI1MjUtM2E0YjVlOTg0ZTNkIiwiYWlkIjoiMCIsIm5ldCI6ImtjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIyNzk2Y2RhMi1lZWM0LTRjYzMtYjUyNS0zYTRiNWU5ODRlM2QiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoidm1lc3MtcXVpYyIsImFkZCI6ImluZm8uaHlkcm9jb2RlLnRlY2giLCJwb3J0IjoiMzAwMiIsImlkIjoiMjc5NmNkYTItZWVjNC00Y2MzLWI1MjUtM2E0YjVlOTg0ZTNkIiwiYWlkIjoiMCIsIm5ldCI6InF1aWMiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJub25lIiwicGF0aCI6IiIsInRscyI6InRscyJ9
+trojan://2796cda2-eec4-4cc3-b525-3a4b5e984e3d@info.hydrocode.tech:4433#trojan-tcp
+ss://YWVzLTEyOC1nY206Mjc5NmNkYTItZWVjNC00Y2MzLWI1MjUtM2E0YjVlOTg0ZTNkQGluZm8uaHlkcm9jb2RlLnRlY2g6NDAwMQ==#ShadowSocks
