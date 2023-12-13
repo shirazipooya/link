@@ -1,1 +1,2 @@
 juicity://5e953743-709b-4e67-829a-dc149591d386:1333@193.106.250.81:2053/?congestion_control=bbr&sni=speedtest.net&allow_insecure=1#New%20York
+juicity://432f1ccb-fad8-4222-9a35-0ef603acdae3:1333@108.165.106.8:2053?congestion_control=bbr&pinned_certchain_sha256=TpiVWFPlu8u8Rx_JCeFas_od1QYyWqqHFjWPHGJyqow%3D&sni=speedtest.net
