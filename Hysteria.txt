@@ -1,0 +1,2 @@
+hy2://1333@193.106.250.81:444/?insecure=1&sni=google.com&obfs=salamander&obfs-password=1333#Hysteria%20-%20New%20York
+hy2://1333@108.165.106.8:444/?insecure=1&sni=google.com&obfs=salamander&obfs-password=1333#Hysteria%20-%20Phoenix
