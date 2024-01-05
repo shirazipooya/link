@@ -21,3 +21,8 @@ https://raw.githubusercontent.com/shirazipooya/link/main/FreeMKH.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeMTN.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeMCI.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeRTL.txt
+
+https://raw.githubusercontent.com/shirazipooya/link/main/WorkerHydrocode_MKH.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/WorkerHydrocode_MTN.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/WorkerHydrocode_MCI.txt
+https://raw.githubusercontent.com/shirazipooya/link/main/WorkerHydrocode_RTL.txt
