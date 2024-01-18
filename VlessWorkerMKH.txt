@@ -1,6 +1,0 @@
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@104.17.23.241:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@172.67.242.38:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@104.20.156.248:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@172.66.47.74:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@104.25.255.254:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
-vless://ca24ba30-8f58-4cdc-a1bf-b7f572003b1a@203.29.53.252:443?encryption=none&security=tls&sni=popi.shirazipooya.website&alpn=http%2F1.1&fp=chrome&type=ws&host=popi.shirazipooya.website&path=%2F%3Fed%3D2048#VlessWorker_MKH_IRCF
