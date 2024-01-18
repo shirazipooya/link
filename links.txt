@@ -14,3 +14,5 @@ https://raw.githubusercontent.com/shirazipooya/link/main/FreeMKH.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeMTN.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeMCI.txt
 https://raw.githubusercontent.com/shirazipooya/link/main/FreeRTL.txt
+
+https://raw.githubusercontent.com/shirazipooya/link/main/Rosha.txt
